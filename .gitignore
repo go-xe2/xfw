@@ -1,4 +1,8 @@
 # Binaries for programs and plugins
+.DS_Store
+.DS_Store~
+.log
+logs
 *.exe
 *.exe~
 *.dll
