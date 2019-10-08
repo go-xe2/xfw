@@ -1,7 +1,7 @@
 package xmgo
 
 import (
-	"gmny-server/xfw/xerrors"
+	"github.com/go-xe2/xfw/xerrors"
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
 )

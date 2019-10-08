@@ -2,9 +2,9 @@ package xredis
 
 import (
 	"fmt"
+	"github.com/go-xe2/xfw/encoding/xjson"
 	"github.com/gogf/gf/g"
 	"github.com/gogf/gf/g/os/gcfg"
-	"gmny-server/xfw/encoding/xjson"
 	"time"
 )
 

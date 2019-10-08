@@ -2,13 +2,13 @@ package xmysql
 
 import (
 	"fmt"
+	xfw "github.com/go-xe2/xfw/os"
+	"github.com/go-xe2/xfw/util/xmap"
+	"github.com/go-xe2/xfw/xerrors"
+	"github.com/go-xe2/xorm"
 	"github.com/gogf/gf/g/encoding/gparser"
 	"github.com/gogf/gf/g/errors/gerror"
 	"github.com/gogf/gf/g/util/gconv"
-	"github.com/go-xe2/xorm"
-	xfw "gmny-server/xfw/os"
-	"gmny-server/xfw/util/xmap"
-	"gmny-server/xfw/xerrors"
 	"io/ioutil"
 )
 

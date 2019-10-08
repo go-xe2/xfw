@@ -3,12 +3,12 @@ package xredis
 import (
 	"encoding/json"
 	"fmt"
+	xfw "github.com/go-xe2/xfw/os"
+	"github.com/go-xe2/xfw/util/xmap"
+	"github.com/go-xe2/xfw/xerrors"
 	"github.com/gogf/gf/g/encoding/gjson"
 	"github.com/gogf/gf/g/encoding/gparser"
 	"github.com/gogf/gf/g/os/gfile"
-	xfw "gmny-server/xfw/os"
-	"gmny-server/xfw/util/xmap"
-	"gmny-server/xfw/xerrors"
 	"gopkg.in/redis.v4"
 	"io/ioutil"
 )

@@ -1,8 +1,8 @@
 package xmgo
 
 import (
+	"github.com/go-xe2/xfw/xerrors"
 	"github.com/gogf/gf/g/os/gcfg"
-	"gmny-server/xfw/xerrors"
 )
 
 func InitXmgo(cfg *gcfg.Config) (Ixmgo, error) {

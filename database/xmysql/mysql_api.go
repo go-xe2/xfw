@@ -1,8 +1,8 @@
 package xmysql
 
 import (
+	"github.com/go-xe2/xfw/xerrors"
 	"github.com/go-xe2/xorm"
-	"gmny-server/xfw/xerrors"
 )
 
 // 检查数据库中是否存在记录

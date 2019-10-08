@@ -1,8 +1,8 @@
 package xfilter
 
 import (
-	xfw "gmny-server/xfw/os"
-	"gmny-server/xfw/xerrors"
+	xfw "github.com/go-xe2/xfw/os"
+	"github.com/go-xe2/xfw/xerrors"
 )
 
 type DefValueFunc func(params ...interface{}) interface{}

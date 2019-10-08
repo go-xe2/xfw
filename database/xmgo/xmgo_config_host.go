@@ -2,7 +2,7 @@ package xmgo
 
 import (
 	"fmt"
-	"gmny-server/xfw/util/xmap"
+	"github.com/go-xe2/xfw/util/xmap"
 )
 
 type xmgoConfigHost struct {

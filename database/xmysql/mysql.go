@@ -2,9 +2,9 @@ package xmysql
 
 import (
 	_ "github.com/go-sql-driver/mysql"
-	"github.com/gogf/gf/g/util/gconv"
+	xfw "github.com/go-xe2/xfw/os"
 	"github.com/go-xe2/xorm"
-	xfw "gmny-server/xfw/os"
+	"github.com/gogf/gf/g/util/gconv"
 )
 
 

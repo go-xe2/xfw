@@ -1,8 +1,8 @@
 package xredis
 
 import (
+	"github.com/go-xe2/xfw/xerrors"
 	"github.com/gogf/gf/g/os/gcfg"
-	"gmny-server/xfw/xerrors"
 )
 
 // redis 数据库初始化

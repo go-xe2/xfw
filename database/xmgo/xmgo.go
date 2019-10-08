@@ -1,8 +1,8 @@
 package xmgo
 
 import (
-	xfw "gmny-server/xfw/os"
-	"gmny-server/xfw/xerrors"
+	xfw "github.com/go-xe2/xfw/os"
+	"github.com/go-xe2/xfw/xerrors"
 	"gopkg.in/mgo.v2"
 )
 

@@ -1,7 +1,7 @@
 package xredis
 
 import (
-	xfw "gmny-server/xfw/os"
+	xfw "github.com/go-xe2/xfw/os"
 	"gopkg.in/redis.v4"
 )
 
